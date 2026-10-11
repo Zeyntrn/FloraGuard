@@ -92,7 +92,7 @@ FloraGuard/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/FloraGuard.git
+git clone https://github.com/Zeyntrn/FloraGuard.git
 ```
 
 ### 2. Create the database
