@@ -124,7 +124,7 @@ Open `FloraGuardProje.sln` in Visual Studio and press **F5**.
 
 ### 6. Hardware setup (optional)
 
-Wiring, Arduino code and test steps are described in [docs/FloraGuard_user_manuel.pdf](docs/FloraGuard_user_manuel.pdf). In the app, open **Arduino Connection**, choose the COM port (e.g. COM3) and click **Connect**.
+Wiring, Arduino code and test steps are described in [docs/FloraGuard_user_manual.pdf](docs/FloraGuard_user_manual.pdf). In the app, open **Arduino Connection**, choose the COM port (e.g. COM3) and click **Connect**.
 
 ## Usage
 
